@@ -1,0 +1,16 @@
+[
+    {
+        "BusNo": 202,
+        "Source": "Rohtak",
+        "Destination": "Delhi",
+        "Time": "8:45 AM",
+        "Fare": 50
+    },
+    {
+        "BusNo": 305,
+        "Source": "Hisar",
+        "Destination": "Chandigarh",
+        "Time": "10:30 AM",
+        "Fare": 75
+    }
+]
